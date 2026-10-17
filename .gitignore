@@ -1,0 +1,8 @@
+# Runtime state written by the app / engine (not source)
+submission.json
+results.json
+
+# OS / Python noise
+.DS_Store
+__pycache__/
+*.pyc
