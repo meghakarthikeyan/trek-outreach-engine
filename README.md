@@ -13,6 +13,12 @@ Built for the HBS **NY Tech Trek**, but the workflow fits any outbound list
 
 ---
 
+## Demo
+
+▶️ **[Watch the 2-minute walkthrough on Loom](https://www.loom.com/share/e61abfadc7f74684b581befadce6ed95)** — paste a company list, watch it research, draft the Gmail invites, and populate the Notion CRM.
+
+---
+
 ## How it works
 
 This is a **hybrid app**: a local web UI + a tiny Python bridge, driven by a
